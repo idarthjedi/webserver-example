@@ -1,4 +1,4 @@
-# Example Webserver README.md
+# Example Webserver
 
 ## Source information
 This project was put together with a few twists based on the course 'The Complete NodeJS Developer Course (V2)'
